@@ -1,5 +1,3 @@
-# example-analysis
-# example-analysis
 # Text Data Analysis
 
 This project demonstrates the processing and analysis of structured text data using **R**.
