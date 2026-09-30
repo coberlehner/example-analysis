@@ -1,4 +1,3 @@
-getwd()
 library(dplyr)
 library(stringr)
 library(ggplot2)
