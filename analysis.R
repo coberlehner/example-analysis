@@ -34,7 +34,6 @@ extract_data <- function(statement) {
     stringsAsFactors = FALSE
   ))
 }
-?gsub
 table <- do.call(rbind, lapply(statements, extract_data))
 print(table)
 
