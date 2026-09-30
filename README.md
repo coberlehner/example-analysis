@@ -1,6 +1,6 @@
 # Text Data Analysis
 
-This project demonstrates the processing and analysis of structured text data using **R**.
+This project demonstrates the processing and analysis of structured text data using R.
 
 ## Overview
 
@@ -27,6 +27,6 @@ The analysis includes:
 ## Files
 
 * `analysis.R` – R code for data processing, analysis and visualisation
-* `input_data.txt` – input data used by the analysis
+* `input_data.txt` – synthetic example data used as input data for the analysis
 
 
