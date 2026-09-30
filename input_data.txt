@@ -1,0 +1,641 @@
+Datum: 27.02.2024
+
+Kategorie: A
+
+Value: 98
+
+Confidental: YES
+
+Outcome: 1
+
+Titel: This is a random title
+
+Lorem ipsum dolor upturn sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod upturn increase tempor invidunt ut 
+labore et dolore magna low inflation aliquyam erat, sed diam voluptua. At vero eos strong et accusam et justo duo dolores 
+et ea rebum positive. Stet clita kasd gubergren, no sea takimata sanctus est Lorem high growth ipsum dolor sit amet. 
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy degrowth eirmod tempor invidunt ut 
+labore et dolore positive magna aliquyam erat, sed diam more vacancies voluptua.
+
+Statement-ID: 1234
+
+___________________________________________________________________
+
+Datum: 27.01.2024
+
+Kategorie: B
+
+Value: 83
+
+Confidental: NO
+
+Outcome: 1
+
+Titel: This title was chosen very randomly
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam 
+nonumy eirmod tempor invidunt ut labore et positive dolore magna aliquyam erat, 
+sed diam voluptua. upturn At vero eos et accusam et justo positive duo dolores et ea rebum. Stet clita kasd gubergren, 
+no sea takimata sanctus est Lorem ipsum dolor sit amet. negative Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+ sed diam nonumy weak eirmod tempor invidunt positive ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos 
+et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata low inflation sanctus est Lorem ipsum 
+dolor sit amet. Lorem ipsum dolor sit low inflation amet, consetetur more vacancies sadipscing elitr, sed diam nonumy eirmod tempor invidunt 
+ut labore et
+
+Statement-ID: 4321
+
+___________________________________________________________________
+
+Datum: 02.03.2024
+
+Kategorie: A
+
+Value: 92
+
+Confidental: NO
+
+Outcome: 1
+
+Titel: This is a nice title
+
+Lorem ipsum more vacancies dolor sit amet, consetetur positive sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et 
+dolore magna aliquyam erat, sed diam voluptua. central At vero eos bank et accusam et positive justo duo dolores et ea rebum. Stet 
+clita kasd gubergren, no sea takimata sanctus positive est Lorem ipsum dolor increase sit amet. Lorem ipsum dolor sit amet, consetetur 
+sadipscing elitr, sed diam upturn nonumy eirmod positive tempor invidunt ut labore et dolore magna aliquyam erat, sed 
+diam voluptua. At vero eos et accusam et justo duo dolores et e
+
+Statement-ID: 705
+
+___________________________________________________________________
+
+Datum: 30.09.2024
+
+Kategorie: E
+
+Value: 58
+
+Confidental: YES
+
+Outcome: 1
+
+Titel: This is a funny title
+
+Lorem ipsum dolor weak sit amet, negative consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et 
+dolore magna aliquyam erat, sed diam voluptua. negative At vero eos et accusam et justo duo dolores et ea rebum. Stet 
+clita kasd gubergren, high inflation no sea decrease takimata sanctus est Lorem ipsum dolor sit amet. Lorem weak ipsum dolor sit amet, consetetur 
+sadipscing elitr, few vacancies sed diam nonumy decrease eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed 
+diam voluptua. few vacancies At vero eos et accusam et justo duo dolores et e
+
+Statement-ID: 701
+___________________________________________________________________
+
+Datum: 26.01.2024
+
+Kategorie: B
+
+Value: 83
+
+Confidental: NO
+
+Outcome: 1
+
+Titel: This is an interesting title
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy 
+eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
+At vero eos et prosperity accusam et positive justo duo dolores et ea rebum. Stet clita kasd gubergren, no 
+sea takimata sanctus est Lorem positive ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+sed diam nonumy eirmod contraction tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero 
+eos et accusam weak et decrease justo duo strong dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem 
+ipsum dolor sit amet. Lorem ipsum dolor strong sit amet, consetetur sadipscing elitr, upturn high inflation sed diam nonumy eirmod tempor 
+invidunt ut labore et dolore magna low inflation aliquyam erat, strong sed diam voluptua. At vero eos et accusam et justo duo 
+dolores et ea more vacancies rebum. Stet clita kasd strong gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+
+Statement-ID: 7857
+
+___________________________________________________________________
+
+Datum: 09.06.2024
+
+Kategorie: C
+
+Value: 71
+
+Confidental: YES
+
+Outcome: 1
+
+Titel: Oh what a title
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy 
+eirmod tempor invidunt ut positive labore et dolore magna aliquyam erat, sed diam voluptua. 
+At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no 
+sea takimata sanctus est positive Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam negative erat, sed diam voluptua. At vero 
+eos et accusam et justo duo strong dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem 
+ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing decrease elitr, sed diam nonumy eirmod tempor 
+invidunt ut labore et dolore high inflation magna aliquyam erat, sed diam voluptua.
+
+Statement-ID: 456
+
+___________________________________________________________________
+
+Datum: 12.09.2024
+
+Kategorie: D
+
+Value: 69
+
+Confidental: NO
+
+Outcome: 1
+
+Titel: Exciting title
+
+Lorem ipsum dolor sit amet, negative consetetur sadipscing elitr, sed diam nonumy 
+eirmod tempor invidunt ut labore negative et dolore magna aliquyam erat, sed diam voluptua. 
+At vero eos et strong accusam et negative justo duo dolores et ea rebum. Stet clita weak kasd gubergren, no 
+sea takimata negative sanctus est Lorem ipsum dolor sit weak amet.
+
+Statement-ID: 987
+
+___________________________________________________________________
+
+Datum: 09.10.2024
+
+Kategorie: E
+
+Value: 31
+
+Confidental: YES
+
+Outcome: 0
+
+Titel: This is a tremendous title
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy 
+eirmod tempor high inflation invidunt ut labore et negative dolore magna aliquyam erat, sed diam voluptua. 
+At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no 
+sea takimata sanctus est Lorem negative ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+sed diam high inflation nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero 
+eos et accusam et justo duo dolores weak et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem 
+ipsum dolor sit amet. Lorem weak ipsum dolor sit amet, consetetur sadipscing few vacancies elitr.
+
+Statement-ID: 123
+
+___________________________________________________________________
+
+Datum: 21.11.2024
+
+Kategorie: E
+
+Value: 49
+
+Confidental: YES
+
+Outcome: 0
+
+Titel: This is a title
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy 
+eirmod tempor invidunt ut labore et negative dolore magna aliquyam erat, sed diam voluptua. 
+At vero eos et accusam et justo negative duo dolores et ea rebum. Stet clita kasd gubergren, no 
+sea takimata sanctus negative est Lorem ipsum dolor sit amet. high inflation Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+sed diam nonumy eirmod few vacancies tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.  
+
+Statement-ID: 1234
+
+___________________________________________________________________
+
+Datum: 03.03.2024
+
+Kategorie: A
+
+Value: 94
+
+Confidental: YES
+
+Outcome: 1
+
+Titel: This is a big title
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy 
+eirmod tempor invidunt ut positive labore et dolore magna aliquyam erat, sed diam voluptua. 
+At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no 
+sea takimata sanctus est positive Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+sed diam nonumy increase eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero 
+eos et accusam et justo duo dolores et ea low inflation rebum. Stet clita kasd gubergren, no sea increase takimata sanctus est Lorem 
+ipsum dolor sit amet. Lorem low inflation ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
+invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos
+
+Statement-ID: 121
+
+___________________________________________________________________
+
+Datum: 01.08.2024
+
+Kategorie: E
+
+Value: 3
+
+Confidental: YES
+
+Outcome: 0
+
+Titel: This is a headline title
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy 
+eirmod tempor negative invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
+At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no 
+sea takimata sanctus negative est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero 
+eos et decrease accusam et justo duo negative dolores et ea rebum. Stet clita kasd gubergren, no sea takimata few vacancies sanctus est Lorem 
+ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
+invidunt ut weak labore et dolore magna aliquyam erat, sed diam voluptua. At few vacancies vero eos et weak accusam et justo duo 
+dolores et ea rebum. high inflation Stet clita kasd gubergren, no sea takimata high inflation sanctus est Lorem ipsum dolor sit amet. 
+
+Statement-ID: 178
+
+___________________________________________________________________
+
+Datum: 23.07.2024
+
+Kategorie: E
+
+Value: 37
+
+Confidental: NO
+
+Outcome: 0
+
+Titel: This is a subtitle
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy 
+eirmod tempor invidunt ut negative labore et dolore magna aliquyam erat, sed diam voluptua. 
+At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no 
+sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero 
+eos et accusam et justo duo weak dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem 
+ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
+invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo 
+dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+
+Statement-ID: 12378
+
+___________________________________________________________________
+
+Datum: 06.04.2024
+
+Kategorie: C
+
+Value: 78
+
+Confidental: YES
+
+Outcome: 1
+
+Titel: This is a minor title
+
+Lorem ipsum dolor high inflation sit amet, weak consetetur sadipscing elitr, sed diam decrease nonumy 
+eirmod tempor invidunt ut positive labore et dolore magna aliquyam erat, sed diam decrease voluptua. 
+At vero eos positive et accusam et positive justo duo dolores et ea positive rebum.
+
+Statement-ID: 378453
+
+___________________________________________________________________
+
+Datum: 17.03.2024
+
+Kategorie: B
+
+Value: 87
+
+Confidental: YES
+
+Outcome: 1
+
+Titel: This is a crazy title
+
+Lorem ipsum dolor sit amet, consetetur positive sadipscing elitr, sed diam nonumy 
+eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
+At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no 
+sea takimata sanctus est Lorem ipsum positive dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+sed diam nonumy eirmod tempor invidunt strong ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero 
+eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem 
+ipsum dolor sit amet. strong Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam weak nonumy eirmod tempor 
+invidunt ut labore et dolore magna aliquyam erat, sed diam upturn voluptua. At vero eos et accusam et justo duo 
+dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+
+Statement-ID: 78643554
+
+___________________________________________________________________
+
+Datum: 19.11.2024
+
+Kategorie: D
+
+Value: 61
+
+Confidental: NO
+
+Outcome: 1
+
+Titel: This is a title
+
+Lorem ipsum dolor sit amet, consetetur positive sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut 
+labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores 
+et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem 
+ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et 
+dolore magna aliquyam erat, sed diam positive voluptua. At vero eos et accusam et justo duo dolores et ea rebum. 
+Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit 
+amet, consetetur sadipscing elitr, sed decrease diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam 
+erat, sed diam negative voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, 
+no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+
+Duis autem vel eum negative iriure dolor in decrease hendrerit in vulputate velit esse molestie consequat, vel illum 
+dolore eu negative feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent 
+luptatum zzril delenit decrease augue duis high inflation dolore te feugait nulla facilisi. Lorem ipsum dolor few vacancies sit amet, consectetuer 
+adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
+
+Statement-ID: 78697343
+
+___________________________________________________________________
+
+Datum: 24.12.2024
+
+Kategorie: E
+
+Value: 52
+
+Confidental: NO
+
+Outcome: 1
+
+Titel: This is a title
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut 
+labore et dolore magna decrease aliquyam erat, sed diam voluptua. At weak vero eos et accusam et justo duo dolores 
+et ea rebum. 
+Statement-ID: 2131235
+
+___________________________________________________________________
+
+Datum: 30.11.2024
+
+Kategorie: D
+
+Value: 59
+
+Confidental: NO
+
+Outcome: 1
+
+Titel: This is a funny title
+
+Lorem ipsum decrease dolor sit amet, consetetur sadipscing elitr, sed decrease diam nonumy eirmod tempor invidunt ut 
+labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores 
+et ea rebum. Stet high inflation clita kasd positive gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem 
+ipsum dolor sit decrease amet, consetetur sadipscing elitr, sed diam nonumy positive eirmod tempor invidunt ut labore et 
+dolore magna high inflation aliquyam erat, sed diam contraction voluptua.
+
+Statement-ID: 12378578
+
+___________________________________________________________________
+
+Datum: 01.11.2024
+
+Kategorie: D
+
+Value: 65
+
+Confidental: NO
+
+Outcome: 1
+
+Titel: Here starts a NEW title
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut 
+labore et dolore magna aliquyam negative erat, sed diam voluptua. At vero eos et accusam et justo duo dolores 
+et ea rebum. Stet clita kasd gubergren, negative no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem 
+ipsum dolor sit amet, consetetur high inflation sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et 
+dolore magna aliquyam weak erat, sed diam weak voluptua.
+
+Statement-ID: 689431453
+
+___________________________________________________________________
+
+Datum: 23.04.2024
+
+Kategorie: C
+
+Value: 76
+
+Confidental: YES
+
+Outcome: 1
+
+Titel: This headline is huge
+
+Lorem ipsum dolor sit positive amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut 
+labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores 
+et ea rebum. Stet clita positive kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem 
+ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et 
+dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. 
+Stet clita kasd gubergren, no sea takimata low inflation sanctus est Lorem ipsum decrease dolor sit amet. Lorem ipsum dolor sit 
+amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam 
+erat, sed diam voluptua. At vero eos high inflation et accusam et justo decrease duo dolores et ea rebum. Stet clita kasd gubergren, 
+no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+
+Statement-ID: 12354
+
+___________________________________________________________________
+
+Datum: 06.05.2024
+
+Kategorie: C
+
+Value: 71
+
+Confidental: YES
+
+Outcome: 1
+
+Titel: This is a title
+
+Lorem ipsum dolor sit amet, consetetur positive sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut 
+labore et dolore magna negative aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores 
+et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem 
+ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et 
+dolore magna aliquyam negative erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. 
+Stet clita kasd gubergren, no sea takimata sanctus est Lorem negative ipsum dolor sit amet. Lorem ipsum dolor sit 
+amet, consetetur sadipscing negative elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam 
+erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, 
+no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+
+Lorem ipsum dolor sit amet, consetetur positive sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut 
+labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores 
+et ea rebum. Stet clita kasd negative gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem positive
+ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et 
+dolore magna aliquyam erat, sed diam voluptua. At positive vero eos et accusam et justo duo dolores et ea rebum. 
+Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit 
+amet, consetetur sadipscing elitr, positive sed diam nonumy eirmod negative tempor invidunt ut labore et dolore magna aliquyam 
+erat, sed diam voluptua. At vero positive eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, 
+no sea positive takimata sanctus est Lorem ipsum negative dolor sit amet. 
+
+Statement-ID: 63
+
+___________________________________________________________________
+
+Datum: 23.05.2024
+
+Kategorie: C
+
+Value: 80
+
+Confidental: NO
+
+Outcome: 1
+
+Titel: This is a title
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut 
+labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores 
+et ea rebum. Stet clita weak kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem 
+ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt upturn ut labore et 
+dolore magna aliquyam erat, sed diam voluptua.
+
+Statement-ID: 751
+
+___________________________________________________________________
+
+Datum: 27.03.2024
+
+Kategorie: A
+
+Value: 92
+
+Confidental: YES
+
+Outcome: 1
+
+Titel: This is a title
+
+Lorem ipsum dolor sit amet, consetetur positive sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut 
+labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores 
+et ea rebum. Stet clita kasd strong gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. strong Lorem 
+ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et 
+dolore magna positive aliquyam erat, sed diam voluptua. At vero eos positive prosperity et accusam et justo prosperity duo dolores et ea rebum. 
+Stet clita kasd gubergren, no sea positive takimata sanctus est Lorem
+
+Statement-ID: 1587834453111
+
+___________________________________________________________________
+
+Datum: 29.10.2024
+
+Kategorie: E
+
+Value: 14
+
+Confidental: YES
+
+Outcome: 0
+
+Titel: This is a title
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut 
+labore et dolore magna aliquyam erat, high inflation sed diam voluptua. At vero eos et accusam et justo duo dolores 
+et ea rebum. Stet clita kasd gubergren, no sea high inflation takimata sanctus est Lorem ipsum dolor sit amet. Lorem 
+ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et 
+dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. 
+Stet clita kasd gubergren, no sea takimata high inflation sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit 
+amet, decrease consetetur weak sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam 
+erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet weak clita kasd gubergren, 
+no sea takimata sanctus est 
+
+Statement-ID: 11111111274
+
+___________________________________________________________________
+
+Datum: 01.12.2024
+
+Kategorie: E
+
+Value: 3
+
+Confidental: NO
+
+Outcome: 0
+
+Titel: This is a title
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut 
+labore et dolore magna aliquyam weak erat, sed diam voluptua. At vero eos et accusam et justo duo dolores 
+et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem 
+ipsum dolor sit amet, consetetur few vacancies sadipscing elitr, weak sed diam nonumy eirmod tempor invidunt ut labore et 
+dolore magna aliquyam decrease erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. 
+Stet clita kasd gubergren, no sea takimata weak sanctus est few vacancies Lorem ipsum contraction dolor sit amet. Lorem ipsum dolor sit 
+amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam 
+erat, sed diam voluptua. At few vacancies vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, 
+no sea few vacancies takimata.
+
+Statement-ID: 555774123
+
+___________________________________________________________________
+
+Datum: 03.12.2024
+
+Kategorie: D
+
+Value: 63
+
+Confidental: NO
+
+Outcome: 1
+
+Titel: This is a long long long title
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt 
+ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo 
+dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit 
+amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod negative tempor invidunt 
+ut labore et dolore magna aliquyam erat, sed diam positive voluptua. At vero eos et accusam et justo duo dolores 
+et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum 
+dolor sit amet, consetetur sadipscing elitr, sed diam negative nonumy eirmod tempor few vacancies invidunt ut labore et dolore magna
+ aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, 
+no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+
+Duis autem vel eum iriure dolor in hendrerit low inflation in vulputate velit esse molestie consequat, vel illum dolore eu feugiat 
+nulla facilisis at vero eros et accumsan et decrease iusto odio dignissim qui few vacancies blandit praesent luptatum zzril delenit augue duis 
+dolore te feugait nulla facilisi. high inflation Lorem ipsum dolor sit few vacancies amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod 
+tincidunt ut laoreet dolore magna aliquam erat volutpat. 
+
+Ut wisi enim ad minim veniam, more vacancies quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea 
+commodo consequat. high inflation Duis autem vel eum iriure dolor in hendrerit in vulputate velit 
+
+Statement-ID: 9834
+
+___________________________________________________________________
+
+Datum: 25.02.2024
+
+Kategorie: A
+
+Value: 94
+
+Confidental: YES
+
+Outcome: 1
+
+Titel: This is a title
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut 
+labore et dolore magna aliquyam positive erat, sed diam voluptua. At vero eos et accusam et justo duo dolores 
+et ea rebum. Stet clita kasd gubergren, no sea positive takimata sanctus est Lorem ipsum dolor sit amet. Lorem 
+ipsum dolor sit amet, consetetur sadipscing positive elitr, sed diam nonumy eirmod tempor invidunt ut labore et 
+dolore magna aliquyam erat, strong sed diam voluptua. At vero eos et accusam et justo strong duo dolores et ea rebum. 
+Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit 
+amet, consetetur sadipscing elitr,
+
+Statement-ID: 45314137
+
+___________________________________________________________________
